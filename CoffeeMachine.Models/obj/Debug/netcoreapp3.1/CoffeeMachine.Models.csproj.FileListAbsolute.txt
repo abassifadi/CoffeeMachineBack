@@ -1,0 +1,17 @@
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.deps.json
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.pdb
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.AssemblyInfoInputs.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.AssemblyInfo.cs
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.csproj.CoreCompileInputs.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.pdb
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.csprojAssemblyReference.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.deps.json
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.pdb
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.AssemblyInfoInputs.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.AssemblyInfo.cs
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.csproj.CoreCompileInputs.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.Models\obj\Debug\netcoreapp3.1\CoffeeMachine.Models.pdb

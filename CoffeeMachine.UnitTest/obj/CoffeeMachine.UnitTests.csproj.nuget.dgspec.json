@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTest\\CoffeeMachine.UnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.BL\\CoffeeMachine.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.BL\\CoffeeMachine.BL.csproj",
+        "projectName": "CoffeeMachine.BL",
+        "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.BL\\CoffeeMachine.BL.csproj",
+        "packagesPath": "C:\\Users\\Abassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj": {
+                "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj"
+              },
+              "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj": {
+                "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj",
+        "projectName": "CoffeeMachine.DAL",
+        "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj",
+        "packagesPath": "C:\\Users\\Abassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj": {
+                "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj",
+        "projectName": "CoffeeMachine.Models",
+        "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\CoffeeMachine.Models.csproj",
+        "packagesPath": "C:\\Users\\Abassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTest\\CoffeeMachine.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTest\\CoffeeMachine.UnitTests.csproj",
+        "projectName": "CoffeeMachine.UnitTests",
+        "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTest\\CoffeeMachine.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\Abassi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.UnitTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Abassi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.BL\\CoffeeMachine.BL.csproj": {
+                "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.BL\\CoffeeMachine.BL.csproj"
+              },
+              "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj": {
+                "projectPath": "C:\\Users\\Abassi\\source\\repos\\CoffeeMachine\\CoffeeMachine.DAL\\CoffeeMachine.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.16.1, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

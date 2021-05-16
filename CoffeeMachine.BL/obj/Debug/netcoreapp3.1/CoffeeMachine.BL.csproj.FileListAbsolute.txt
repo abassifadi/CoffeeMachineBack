@@ -1,0 +1,14 @@
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.BL.deps.json
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.BL.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.BL.pdb
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.AssemblyInfoInputs.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.AssemblyInfo.cs
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.pdb
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.csprojAssemblyReference.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.Models.pdb
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.csproj.CopyComplete
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\obj\Debug\netcoreapp3.1\CoffeeMachine.BL.csproj.CoreCompileInputs.cache
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.DAL.dll
+C:\Users\Abassi\source\repos\CoffeeMachine\CoffeeMachine.BL\bin\Debug\netcoreapp3.1\CoffeeMachine.DAL.pdb
